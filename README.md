@@ -1,4 +1,4 @@
-# VacationPlanner Crew
+# Vacation Planner 
 
 Welcome to the VacationPlanner Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
 
@@ -77,4 +77,5 @@ Lock dependencies --- > crewai install (uv lock file)
 uv add boto3
 Run Command --- > crewai run
 ............................................
+
 # Vacation_planner_Crew_AI
