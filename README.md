@@ -54,6 +54,9 @@ The vacation_planner Crew is composed of multiple AI agents, each with unique ro
 ....................................................................
 
 
+
+
+
 ......2. CrewAI Installation---> https://docs.crewai.com/installation................
 pip install uv
 uv --version
@@ -61,6 +64,11 @@ uv tool install crewai
 uv tool list
 uv tool update-shell (One time to set the path)
 .......................................................................
+
+
+
+
+
 
 .........3. Create Project............
 crewai create crew vacation_planner
@@ -72,6 +80,9 @@ Add Tools to Agents in Crew.py
 Update Agent and Task details in Crew.py
 Add input in main.py
 
+
+
+
 ...........Run the Project.....................
 Lock dependencies --- > crewai install (uv lock file)
 uv add boto3
@@ -79,3 +90,4 @@ Run Command --- > crewai run
 ............................................
 
 # Vacation_planner_Crew_AI
+
